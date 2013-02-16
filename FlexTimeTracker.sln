@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexTimeTracker", "FlexTimeTracker\FlexTimeTracker.csproj", "{EC3FD856-A271-4091-B9A9-234E183C2F12}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FlexTimeTracker.Setup", "FlexTimeTracker.Setup\FlexTimeTracker.Setup.vdproj", "{7469D602-B413-467E-95FB-45E00F5E1C09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC3FD856-A271-4091-B9A9-234E183C2F12}.Debug|x86.ActiveCfg = Debug|x86
+		{EC3FD856-A271-4091-B9A9-234E183C2F12}.Debug|x86.Build.0 = Debug|x86
+		{EC3FD856-A271-4091-B9A9-234E183C2F12}.Release|x86.ActiveCfg = Release|x86
+		{EC3FD856-A271-4091-B9A9-234E183C2F12}.Release|x86.Build.0 = Release|x86
+		{7469D602-B413-467E-95FB-45E00F5E1C09}.Debug|x86.ActiveCfg = Debug
+		{7469D602-B413-467E-95FB-45E00F5E1C09}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
